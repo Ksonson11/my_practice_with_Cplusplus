@@ -23,7 +23,7 @@ int main()
                 break;
             case 6:
                 cout << "a is 6" << endl;
-            break;
+                break;
             default:
                 cout << "a is not in the range of 1 to 6" << endl;
                 continue;
